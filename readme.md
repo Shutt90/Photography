@@ -1,0 +1,1 @@
+<h1>Created a simple website to showcase photographers images</h1>

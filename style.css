@@ -5,8 +5,9 @@
 }
 
 body {
-    font-family: 'WindSong', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
     background-color: black;
+    font-weight: 400;
 }
 
 .nav {
@@ -19,8 +20,13 @@ body {
     align-items: center;
     background-color: white;
     height: 2rem;
+}
 
-
+.title-txt {
+    color:white;
+    position: absolute;
+    top: 0;
+    left:0;
 }
 
 a {
